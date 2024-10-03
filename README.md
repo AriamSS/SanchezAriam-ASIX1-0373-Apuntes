@@ -48,3 +48,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 |----------|:---------------:|------------------:|
 |**ASIX1** |Curso 24-25|33|
 |DAW2 |Curso 24-25|32|
+|ASIX2|2o curso|x|
