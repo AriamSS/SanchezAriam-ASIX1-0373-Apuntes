@@ -30,3 +30,13 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 </body>
 </html>
 ```
+### Como poner un link
+[TextoAlternativo](URL "Titulo opcional")
+
+[Página web Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
+
+### Como poner una imagen
+
+![TextoAlternativo](UbicaciónDeLaImagen "Titulo opcional")
+
+![Cabra]()
