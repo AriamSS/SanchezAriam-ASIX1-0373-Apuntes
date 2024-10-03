@@ -3,6 +3,6 @@
 ### Tercero nivel de encabezado 
 #### Cuarto nivel de encabezado 
 ##### Quinto nivel de encabezado 
-###### Sextoo nivel de encabezado 
+###### Sexto nivel de encabezado 
 
 Teoria inicial Markdown
