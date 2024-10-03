@@ -38,9 +38,6 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ### Como poner una imagen
 
-![TextoAlternativo](URL "Titulo opcional")
-
-
 ![Raphinha](https://github.com/AriamSS/ASIX1-AprendizajeMarkdown/blob/main/Raphinha%20(foto%20prueba%20GitHub).png "Titulo opcional")
 
 
