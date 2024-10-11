@@ -1,18 +1,20 @@
-# ASIX1-AprendizajeMarkdown
+# **Apuntes 0373: Ariam Sánchez**
 
-# Primer nivel de encabezado
-## Segundo nivel de encabezado 
-### Tercero nivel de encabezado 
-#### Cuarto nivel de encabezado 
-##### Quinto nivel de encabezado 
-###### Sexto nivel de encabezado 
-
+# Markdown
 
 Teoria inicial Markdown.
 
 Estos son mis __apuntes__ del *0373* del ciclo de _ASIX1_ del **curso 24-25**.
 
 Las etiquetas en **_Markdown_** y ***HTML*** pueden anidarse (coger una etiqueta y meterla dentro de otra).
+
+### Encabezados
+# Primer nivel de encabezado
+## Segundo nivel de encabezado 
+### Tercero nivel de encabezado 
+#### Cuarto nivel de encabezado 
+##### Quinto nivel de encabezado 
+###### Sexto nivel de encabezado 
 
 
 ### Indice:
@@ -28,7 +30,7 @@ Las etiquetas en **_Markdown_** y ***HTML*** pueden anidarse (coger una etiqueta
 - Segundo punto de la lista desordenada
 + Tercer punto de la lista desordenada
 
-
+### Texto: 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
 
 
