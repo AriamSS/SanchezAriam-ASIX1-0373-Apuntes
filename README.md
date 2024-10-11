@@ -3,7 +3,8 @@
 # Markdown
 ===
 
-Teoria inicial Markdown.
+Teoria inicial Markdown. [Asi se puede comentar en Markdown]: <> (Esto no es visible)
+
 
 Estos son mis __apuntes__ del *0373* del ciclo de _ASIX1_ del **curso 24-25**.
 
@@ -18,7 +19,7 @@ Las etiquetas en **_Markdown_** y ***HTML*** pueden anidarse (coger una etiqueta
 ###### Sexto nivel de encabezado 
   
     
-    
+
 
 ### Indice:
 1. Primer punto de la lista
