@@ -1,6 +1,7 @@
 # **Apuntes 0373: Ariam Sánchez**
 
 # Markdown
+===
 
 Teoria inicial Markdown.
 
@@ -15,7 +16,9 @@ Las etiquetas en **_Markdown_** y ***HTML*** pueden anidarse (coger una etiqueta
 #### Cuarto nivel de encabezado 
 ##### Quinto nivel de encabezado 
 ###### Sexto nivel de encabezado 
-
+  
+    
+    
 
 ### Indice:
 1. Primer punto de la lista
