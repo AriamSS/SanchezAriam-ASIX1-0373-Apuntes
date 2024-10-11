@@ -15,7 +15,7 @@ Estos son mis __apuntes__ del *0373* del ciclo de _ASIX1_ del **curso 24-25**.
 Las etiquetas en **_Markdown_** y ***HTML*** pueden anidarse (coger una etiqueta y meterla dentro de otra).
 
 
-Indice
+### Indice:
 1. Primer punto de la lista
     1. Primer elemento de la primera sublista
     2. Segundo elemento de la primera sublista
