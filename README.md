@@ -3,7 +3,7 @@
 # Markdown
 ===
 
-Teoria inicial Markdown. [Asi se puede comentar en Markdown]: <> (Esto no es visible)
+[Teoria inicial Markdown.]: <> (Este comentario no es visible)
 
 
 Estos son mis __apuntes__ del *0373* del ciclo de _ASIX1_ del **curso 24-25**.
