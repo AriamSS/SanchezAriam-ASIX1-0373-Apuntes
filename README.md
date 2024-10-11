@@ -4,7 +4,7 @@
 ===
 
 Teoria inicial Markdown. 
-[//]: <> (Esto no es visible)
+[Hola esto es un comentario invisible]: #
 
 Estos son mis __apuntes__ del *0373* del ciclo de _ASIX1_ del **curso 24-25**.
 
